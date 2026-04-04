@@ -50,7 +50,7 @@
 <h2>📫 Reach Me At:</h2>
 <ul>
   <li>📧 <strong>Email:</strong> mukesh.mmp1234@gmail.com</li>
-  <li>🔗 <strong><a href="https://www.linkedin.com/in/mukprabhakar">LinkedIn</a> | <a href="https://github.com/mukprabhakar">GitHub</a> | <a href="https://linktr.ee/mukprabhakar">Portfolio</a></strong></li>
+  <li>🔗 <strong><a href="https://www.linkedin.com/in/mukprabhakar">LinkedIn</a> | <a href="https://github.com/mukprabhakar">GitHub</a> | <a href="mukprabhakar.in">Portfolio</a></strong></li>
 </ul>
 
 <h3 align="center">⚡ “Building solutions that make an impact!”</h3>
